@@ -6,7 +6,7 @@ anthropic==0.72.0
 anyio==4.11.0
 attrs==25.4.0
 cachetools==6.2.1
-certifi==2025.10.5
+certifi==2026.10.19
 charset-normalizer==3.4.4
 distro==1.9.0
 docstring_parser==0.17.0
